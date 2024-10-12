@@ -14,16 +14,14 @@
 
     <div>
       <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
-        Marketing website done with Nuxt
+         志行工作室
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-        Nuxtship is a starter template for startups, marketing websites &
-        landing pages.<wbr /> Built with Nuxt & TailwindCSS. You can quickly
-        create any website with this starter.
+        提供网络服务，网站开发，私服搭建，企业智能制造咨询等业务！
       </p>
       <div class="mt-6 flex flex-col sm:flex-row gap-3">
         <LandingLink
-          href="https://github.com/Gr33nW33n/nuxtship-template"
+          href="https://wuazi.com"
           target="_blank"
           rel="noopener"
           >Get Started</LandingLink
@@ -32,7 +30,7 @@
           size="lg"
           styleName="outline"
           rel="noopener"
-          href="https://github.com/Gr33nW33n/nuxtship-template"
+          href="https://wuazi.com"
           target="_blank"
           >View Repo</LandingLink
         >
