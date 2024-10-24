@@ -1,19 +1,19 @@
 <script setup>
 const menuitems = [
   {
-    title: "Features",
+    title: "首页",
     path: "/#",
   },
   {
-    title: "Pricing",
+    title: "定价",
     path: "/pricing",
   },
   {
-    title: "About",
+    title: "关于我们",
     path: "/about",
   },
   {
-    title: "Contact",
+    title: "联系我们",
     path: "/contact",
   },
 ];
