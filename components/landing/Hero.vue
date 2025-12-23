@@ -14,10 +14,10 @@
 
     <div>
       <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
-         志行工作室
+         hello word
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-        提供网络服务，网站开发，私服搭建，企业智能制造咨询等业务！
+         Wellcome my home!
       </p>
       <div class="mt-6 flex flex-col sm:flex-row gap-3">
         <LandingLink
